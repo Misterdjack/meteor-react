@@ -1,4 +1,6 @@
-// App component - represents the whole app
+//////////////////////////////////////////////
+// App component - represents the whole app //
+//////////////////////////////////////////////
 App = React.createClass({
   getTasks() {
     return [
